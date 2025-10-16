@@ -81,3 +81,4 @@ plt.imshow(vertical, cmap='gray')
 plt.title('Vertical Edges')
 plt.axis('off')
 plt.show()
+??
